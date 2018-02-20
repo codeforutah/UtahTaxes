@@ -1,0 +1,493 @@
+200905G01000Beaver County             00001379931
+200905G02000Box Elder County          00004550259
+200905G03000Cache County              00010522191
+200905G04000Carbon County             00002511895
+200905G05000Daggett County            00000273922
+200905G06000Davis County              00025852952
+200905G07000Duchesne County           00001678180
+200905G09000Garfield County           00002746288
+200905G10000Grand County              00004725803
+200905G11000Iron County               00005008254
+200905G12000Juab County               00000955318
+200905G13000Kane County               00001335255
+200905G15000Morgan County             00000696604
+200905G17000Rich County               00000939980
+200905G18000Salt Lake County          00154555411
+200905G20000Sanpete County            00001784089
+200905G21000Sevier County             00002661386
+200905G22000Summit County             00012664246
+200905G23000Tooele County             00004322089
+200905G24000Uintah County             00003897609
+200905G25000Utah County               00044481090
+200905G26000Wasatch County            00004874943
+200905G27000Washington County         00020264345
+200905G29000Weber County              00028214324
+200905K01000Beaver County             00002358468
+200905K02000Box Elder County          00017345237
+200905K03000Cache County              00037367324
+200905K04000Carbon County             00009239426
+200905K05000Daggett County            00000531578
+200905K06000Davis County              00100911485
+200905K07000Duchesne County           00010611929
+200905K08000Emery County              00004156189
+200905K09000Garfield County           00002920968
+200905K10000Grand County              00006161296
+200905K11000Iron County               00016267883
+200905K12000Juab County               00003015848
+200905K13000Kane County               00004428581
+200905K14000Millard County            00004475503
+200905K15000Morgan County             00002754071
+200905K16000Piute County              00000423046
+200905K17000Rich County               00001200236
+200905K18000Salt Lake County          00424697300
+200905K19000San Juan County           00005427537
+200905K20000Sanpete County            00007841223
+200905K21000Sevier County             00008517162
+200905K22000Summit County             00019612105
+200905K23000Tooele County             00016655374
+200905K24000Uintah County             00027056645
+200905K25000Utah County               00166091709
+200905K26000Wasatch County            00008052511
+200905K27000Washington County         00052218320
+200905K28000Wayne County              00001353956
+200905K29000Weber County              00081171600
+200905I25000Utah County               00136631318
+200905X24024Vernal                    00023113253
+200905X27011La Verkin                 00000292771
+200905X08011Green River               00001062313
+200905X24014Naples                    00007254088
+200905X20014Gunnison                  00000817972
+200905X21034Richfield                 00005817710
+200905X07019Roosevelt                 00006661768
+200905X10011Moab                      00006375559
+200905X26011Midway                    00001245969
+200905X20008Ephraim                   00002073779
+200905X20024Mt. Pleasant              00000972449
+200905X26008Heber                     00004850108
+200905X12026Nephi                     00001809788
+200905X27020St. George                00037502447
+200905X27008Hurricane                 00004636774
+200905X04035Price                     00007078460
+200905X27010Ivins                     00000973527
+200905X27027Washington City           00006255948
+200905X21035Salina                    00001708863
+200905X19002Blanding                  00000893350
+200905X27021Santa Clara               00000636929
+200905X11028Brian Head                00000203405
+200905X04053Wellington                00000271303
+200905S01000Beaver County             00001503036
+200905S01002Beaver City               00004926093
+200905S01008Milford                   00002164302
+200905S01009Minersville               00000828486
+200905S02000Box Elder County          00011441022
+200905S02004Bear River                00000694272
+200905S02017Brigham City              00026092780
+200905S02025Corinne                   00001066210
+200905S02032Deweyville                00000305749
+200905S02035Elwood                    00000836614
+200905S02041Fielding                  00000379514
+200905S02044Garland                   00001995872
+200905S02054Honeyville                00001244079
+200905S02057Howell                    00000187818
+200905S02069Mantua                    00000643746
+200905S02086Perry                     00006275123
+200905S02090Plymouth                  00000493563
+200905S02092Portage                   00000219351
+200905S02100Snowville                 00000394943
+200905S02113Tremonton                 00015404477
+200905S02120Willard                   00001616587
+200905S03000Cache County              00006044188
+200905S03001Amalga                    00000566718
+200905S03014Clarkston                 00000623058
+200905S03017Cornish                   00000279533
+200905S03032Hyde Park                 00004652482
+200905S03033Hyrum                     00008243040
+200905S03036Lewiston                  00002067570
+200905S03038Logan                     00073859145
+200905S03041Mendon                    00001000993
+200905S03044Millville                 00001855324
+200905S03047Newton                    00000685075
+200905S03049North Logan               00016167433
+200905S03053Paradise                  00000832778
+200905S03056Providence                00007929765
+200905S03059Richmond                  00002372763
+200905S03060River Heights             00001432135
+200905S03062Smithfield                00011293897
+200905S03076Wellsville                00003136659
+200905S03081Trenton                   00000417897
+200905S03098Nibley                    00003653970
+200905S04000Carbon County             00007826251
+200905S04016Helper                    00003588794
+200905S04035Price                     00021883365
+200905S04040Scofield                  00000086156
+200905S04046Sunnyside                 00000528667
+200905S04053Wellington                00001865580
+200905S04058East Carbon               00001140187
+200905S05000Daggett County            00001561821
+200905S05006Manila                    00000562680
+200905S06000Davis County              00005313571
+200905S06004Bountiful                 00057161024
+200905S06006Centerville               00026882699
+200905S06008Clearfield                00031849732
+200905S06010Fruit Heights             00004685940
+200905S06017Farmington                00018726120
+200905S06026Kaysville                 00030441928
+200905S06030Layton                    00105103664
+200905S06035North Salt Lake           00023400462
+200905S06045South Weber               00006165771
+200905S06048Sunset                    00006288511
+200905S06049Syracuse                  00024024965
+200905S06056West Point                00007510070
+200905S06057Woods Cross               00015830203
+200905S06059Clinton                   00023048132
+200905S06061West Bountiful            00016645969
+200905S07000Duchesne County           00017409159
+200905S07001Altamont                  00000619753
+200905S07008Duchesne City             00003074245
+200905S07017Myton                     00003443912
+200905S07019Roosevelt                 00017680480
+200905S07020Tabiona                   00000189559
+200905S08000Emery County              00002289776
+200905S08001Castle Dale               00003671743
+200905S08003Clawson                   00000151879
+200905S08004Cleveland                 00000593399
+200905S08007Elmo                      00000310464
+200905S08008Emery City                00000269180
+200905S08009Ferron                    00001764103
+200905S08011Green River               00003099745
+200905S08012Huntington                00002942069
+200905S08016Orangeville               00001558844
+200905S09000Garfield County           00002834519
+200905S09001Antimony                  00000218783
+200905S09002Boulder                   00000384040
+200905S09003Bryce Canyon              00002267062
+200905S09004Cannonville               00000233045
+200905S09005Escalante                 00001466912
+200905S09006Hatch                     00000280982
+200905S09008Henrieville               00000129064
+200905S09011Panguitch                 00002924186
+200905S09015Tropic                    00000936386
+200905S10000Grand County              00007475234
+200905S10005Castle Valley             00000305953
+200905S10011Moab                      00016846247
+200905S11000Iron County               00006959370
+200905S11003Cedar City                00049385513
+200905S11005Enoch                     00004306078
+200905S11012Kanarraville              00000326614
+200905S11018Paragonah                 00000481714
+200905S11019Parowan                   00003053927
+200905S11028Brian Head                00000472686
+200905S12000Juab County               00001087954
+200905S12009Eureka                    00000745036
+200905S12019Levan                     00000860388
+200905S12024Mona                      00001176543
+200905S12026Nephi                     00007714257
+200905S12030Rocky Ridge               00000460322
+200905S13000Kane County               00008266124
+200905S13001Alton                     00000125509
+200905S13002Glendale                  00000311772
+200905S13004Kanab                     00007286849
+200905S13007Orderville                00001175489
+200905S13010Big Water                 00000606243
+200905S14000Millard County            00004329784
+200905S14010Delta                     00006373476
+200905S14014Fillmore                  00004185360
+200905S14023Hinckley                  00000582108
+200905S14024Holden                    00000358219
+200905S14026Kanosh                    00000454828
+200905S14028Leamington                00000167655
+200905S14030Lynndyl                   00000142663
+200905S14034Meadow                    00000259564
+200905S14037Oak City                  00000540161
+200905S14040Scipio                    00000512212
+200905S15000Morgan County             00006480096
+200905S15007Morgan City               00004519765
+200905S16000Piute County              00000221478
+200905S16003Circleville               00000641607
+200905S16005Junction                  00000225204
+200905S16006Kingston                  00000115788
+200905S16007Marysvale                 00000485466
+200905S17000Rich County               00001247504
+200905S17001Garden City               00002014878
+200905S17002Laketown                  00000495390
+200905S17005Randolph                  00000637618
+200905S17010Woodruff                  00000401453
+200905S18000Salt Lake County          00179215900
+200905S18003Alta                      00000613804
+200905S18019Bluffdale                 00008601395
+200905S18020Cottonwood Heights        00046657380
+200905S18039Draper                    00065717627
+200905S18060Herriman                  00016288925
+200905S18065Holladay                  00031095072
+200905S18093Midvale                   00049967252
+200905S18096Murray                    00114126064
+200905S18118Riverton                  00043212554
+200905S18122Salt Lake City            00417101922
+200905S18131Sandy                     00161461267
+200905S18138South Jordan              00070032795
+200905S18139South Salt Lake           00094381824
+200905S18142Taylorsville              00072311928
+200905S18155West Jordan               00139432300
+200905S18167West Valley City          00187075203
+200905S19000San Juan County           00013085199
+200905S19002Blanding                  00005000013
+200905S19009Monticello                00003596474
+200905S20000Sanpete County            00003751957
+200905S20004Centerfield               00001526618
+200905S20008Ephraim                   00008480824
+200905S20009Fairview                  00001732871
+200905S20010Fayette                   00000194685
+200905S20011Fountain Green            00000868954
+200905S20014Gunnison                  00003718354
+200905S20020Manti                     00003524907
+200905S20021Mayfield                  00000370355
+200905S20023Moroni                    00001499392
+200905S20024Mt. Pleasant              00004186329
+200905S20031Spring City               00000951585
+200905S20032Sterling                  00000301892
+200905S20033Wales                     00000193370
+200905S21000Sevier County             00003219820
+200905S21001Annabella                 00000639943
+200905S21002Aurora                    00001136228
+200905S21007Central Valley            00000356516
+200905S21014Elsinore                  00001907219
+200905S21018Glenwood                  00000408278
+200905S21025Joseph                    00000375130
+200905S21029Koosharem                 00000359394
+200905S21031Monroe                    00001828075
+200905S21033Redmond                   00000941472
+200905S21034Richfield                 00017332894
+200905S21035Salina                    00005117564
+200905S21038Sigurd                    00000407370
+200905S22000Summit County             00045038862
+200905S22006Coalville                 00001895903
+200905S22013Francis                   00000958976
+200905S22017Henefer                   00000738942
+200905S22022Kamas                     00003612106
+200905S22029Oakley                    00001716282
+200905S22030Park City                 00024579874
+200905S23000Tooele County             00013347079
+200905S23023Grantsville               00008841468
+200905S23037Ophir                     00000023805
+200905S23046Stockton                  00000550935
+200905S23048Tooele City               00040679814
+200905S23050Vernon                    00000274376
+200905S23052Wendover                  00002263952
+200905S23056Rush Valley               00000532033
+200905S24000Uintah County             00028153932
+200905S24014Naples                    00020957611
+200905S24024Vernal                    00055979231
+200905S24028Ballard                   00003081613
+200905S25000Utah County               00007133943
+200905S25001Alpine                    00008825218
+200905S25002American Fork             00051714621
+200905S25019Cedar Fort                00000394384
+200905S25030Eagle Mountain            00015777117
+200905S25035Fairfield                 00000181573
+200905S25038Genola                    00001449852
+200905S25043Goshen                    00000848648
+200905S25066Lehi                      00050841522
+200905S25070Lindon                    00026138971
+200905S25073Mapleton                  00007294146
+200905S25083Orem                      00163016706
+200905S25085Payson                    00021849021
+200905S25088Pleasant Grove            00035410981
+200905S25090Provo                     00147788543
+200905S25096Salem                     00006157659
+200905S25097Santaquin                 00006844692
+200905S25098Saratoga Springs          00012285764
+200905S25099Highland                  00014411396
+200905S25103Spanish Fork              00037540452
+200905S25106Springville               00035916781
+200905S25117Vineyard                  00000336497
+200905S25123Cedar Hills               00007569963
+200905S25124Elk Ridge                 00002088780
+200905S25125Woodland Hills            00001137022
+200905S26000Wasatch County            00008255648
+200905S26003Charleston                00000881432
+200905S26005Daniel                    00000539385
+200905S26008Heber                     00017184787
+200905S26011Midway                    00004880246
+200905S26014Wallsburg                 00000311503
+200905S27000Washington County         00007147548
+200905S27002Apple Valley              00000435827
+200905S27005Enterprise                00001859469
+200905S27008Hurricane                 00018455568
+200905S27010Ivins                     00007661570
+200905S27011La Verkin                 00004170508
+200905S27012Leeds                     00000776775
+200905S27015New Harmony Town          00000247469
+200905S27019Rockville                 00000234546
+200905S27020St. George                00126784558
+200905S27021Santa Clara               00006349833
+200905S27023Springdale                00004609533
+200905S27024Toquerville               00001120161
+200905S27026Virgin                    00000678018
+200905S27027Washington City           00025953287
+200905S27035Hildale                   00002125278
+200905S28000Wayne County              00001660590
+200905S28001Bicknell                  00000545780
+200905S28005Hanksville                00000574810
+200905S28007Loa                       00001537652
+200905S28008Lyman                     00000225389
+200905S28010Torrey                    00000866608
+200905S29000Weber County              00018414212
+200905S29012Farr West                 00007683895
+200905S29016Harrisville               00011002169
+200905S29018Hooper                    00005033566
+200905S29019Huntsville                00001045413
+200905S29022Marriot-Slaterville       00004055399
+200905S29026North Ogden               00017446659
+200905S29027Ogden                     00126494408
+200905S29030Plain City                00004175100
+200905S29031Pleasant View             00007042201
+200905S29036Riverdale                 00033661702
+200905S29037Roy                       00038720983
+200905S29040South Ogden               00024441797
+200905S29043Uintah                    00001463233
+200905S29049Washington Terrace        00007913203
+200905S29051West Haven                00015656223
+200905M03000Cache County              00027347230
+200905M18000Salt Lake County          01131948737
+200905M29000Weber County              00184041958
+200905M06000Davis County              00155663401
+200905M02000Box Elder County          00006922310
+200905M25070Lindon                    00008301883
+200905M25083Orem                      00038994131
+200905M03060River Heights             00000082169
+200905M03038Logan                     00020030033
+200905M25106Springville               00006140980
+200905M25066Lehi                      00009652756
+200905M02086Perry                     00001519490
+200905M03062Smithfield                00001995412
+200905M25099Highland                  00001132728
+200905M25096Salem                     00000775177
+200905M25073Mapleton                  00000710803
+200905M03044Millville                 00000234360
+200905M25002American Fork             00013525314
+200905M23048Tooele City               00008119365
+200905M25090Provo                     00024630087
+200905M25103Spanish Fork              00006204316
+200905M03032Hyde Park                 00000845753
+200905M03049North Logan               00004829228
+200905M25001Alpine                    00000703953
+200905M22030Park City                 00010713176
+200905M02017Brigham City              00006648439
+200905M25085Payson                    00003217296
+200905M03033Hyrum                     00001453888
+200905M03098Nibley                    00000271949
+200905M25088Pleasant Grove            00004221317
+200905M03059Richmond                  00000355145
+200905M03056Providence                00000953135
+200905M03036Lewiston                  00000224862
+200905M02120Willard                   00000199338
+200905M25123Cedar Hills               00000413845
+200905M03900Cache Valley Transit      00000003623
+200905M23000Tooele County             00001044239
+200905M22000Summit County             00009787594
+200905M25000Utah County               00000421975
+200905R27023Springdale                00011925737
+200905R18003Alta                      00003326977
+200905R11028Brian Head                00001016980
+200905R10011Moab                      00032398563
+200905R08011Green River               00005311382
+200905R26011Midway                    00004530934
+200905R22030Park City                 00039141826
+200905R13007Orderville                00001258070
+200905R09003Bryce Canyon              00004224732
+200905R13004Kanab                     00007614559
+200905R19009Monticello                00000049566
+200905R09011Panguitch                 00003257840
+200905R09015Tropic                    00001061057
+200905R09002Boulder                   00000524098
+200905R17001Garden City               00002900523
+200905R26009Independence              00000008616
+200905H01002Beaver City               00004242832
+200905H24000Uintah County             00065775142
+200905H13000Kane County               00024118823
+200905H05000Daggett County            00002582387
+200905H09000Garfield County           00015366551
+200905A06000Davis County              00015230049
+200905A29000Weber County              00013311526
+200905N02100Snowville                 00000448144
+200905Z18000Salt Lake County          00164927434
+200905Z03000Cache County              00011162844
+200905Z29000Weber County              00026793300
+200905Z24000Uintah County             00016435239
+200905Z22000Summit County             00009268205
+200905Z07019Roosevelt                 00002220192
+200905Z19002Blanding                  00000357289
+200905Z25083Orem                      00015575107
+200905Z06004Bountiful                 00003983519
+200905Z21035Salina                    00000569591
+200905Z11028Brian Head                00000067791
+200905Z21002Aurora                    00000078659
+200905Z21033Redmond                   00000056164
+200905Z23048Tooele City               00002695277
+200905Z04035Price                     00002355501
+200905Z06006Centerville               00002393141
+200905Z11003Cedar City                00004780845
+200905F06000Davis County              00004355250
+200905F10000Grand County              00000698050
+200905F15000Morgan County             00000072488
+200905F18000Salt Lake County          00091193818
+200905F21000Sevier County             00000172208
+200905F24000Uintah County             00000026733
+200905F25000Utah County               00007245807
+200905F27000Washington County         00003013068
+200905F29000Weber County              00003495503
+200905L18139South Salt Lake           00000043812
+200905T01000Beaver County             00003586626
+200905T02000Box Elder County          00004882273
+200905T03000Cache County              00003751027
+200905T04000Carbon County             00001988342
+200905T05000Daggett County            00001226536
+200905T06000Davis County              00000012237
+200905T07000Duchesne County           00000003318
+200905T09000Garfield County           00000080479
+200905T11000Iron County               00011296840
+200905T12000Juab County               00001768291
+200905T13000Kane County               00014013025
+200905T14000Millard County            00001927762
+200905T15000Morgan County             00000064290
+200905T16000Piute County              00000365378
+200905T17000Rich County               00000320683
+200905T18000Salt Lake County          00116144972
+200905T19000San Juan County           00010513480
+200905T20000Sanpete County            00001956872
+200905T21000Sevier County             00004850717
+200905T22000Summit County             00019593561
+200905T23000Tooele County             00003626807
+200905T24000Uintah County             00011714631
+200905T26000Wasatch County            00004505653
+200905T27000Washington County         00034934285
+200905T28000Wayne County              00005946605
+200905T29000Weber County              00007840959
+200905T07019Roosevelt                 00000096084
+200905T10011Moab                      00007811198
+200905T25106Springville               00000283309
+200905T01008Milford                   00000077010
+200905T02017Brigham City              00000227109
+200905T03049North Logan               00000144539
+200905T04035Price                     00000604031
+200905T06030Layton                    00000935946
+200905T08011Green River               00001188368
+200905T14010Delta                     00000327266
+200905T18020Cottonwood Heights        00000149832
+200905T18139South Salt Lake           00000693400
+200905T18155West Jordan               00000180745
+200905T19002Blanding                  00000504349
+200905T19009Monticello                00000336289
+200905T23048Tooele City               00000440622
+200905T25070Lindon                    00000007246
+200905T25083Orem                      00000880027
+200905T26011Midway                    00000826137
+200905T27020St. George                00003725326
+200905T27021Santa Clara               00000014029
+200905T27023Springdale                00002618999
+200905T27026Virgin                    00000062751
+200905T28005Hanksville                00000127942
+200905T29022Marriot-Slaterville       00000206673
+200905T29027Ogden                     00001102752
+200905T29036Riverdale                 00000081235
+200905E18000Salt Lake County          00016070738

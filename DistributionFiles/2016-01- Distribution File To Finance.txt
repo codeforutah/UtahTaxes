@@ -1,0 +1,840 @@
+201601SEM   ES    01000Beaver County             00000359315
+201601SEM   ES    12000Juab County               00000502467
+201601SEM   ES    22000Summit County             00003483054
+201601SEM   ES    06004Bountiful                 00004687959
+201601SEM   ES    18118Riverton                  00002215938
+201601SEM   ES    18000Salt Lake County          00010299308
+201601SEM   ES    25090Provo                     00004737524
+201601SEM   ES    29000Weber County              00014281425
+201601SEM   ES    11000Iron County               00002348468
+201601SEM   ES    20000Sanpete County            00001255700
+201601SEM   ES    25106Springville               00001952377
+201601SEM   ES    18019Bluffdale                 00000533936
+201601SEM   ES    19000San Juan County           00000585389
+201601SEM   ES    24000Uintah County             00003890047
+201601SEM   ES    02000Box Elder County          00002867531
+201601SEM   ES    25070Lindon                    00000717667
+201601SEM   ES    03038Logan                     00005796491
+201601SEM   ES    25083Orem                      00004976456
+201601SEM   ES    25088Pleasant Grove            00001683787
+201601SEM   ES    26000Wasatch County            00001538367
+201601SEM   ES    18020Cottonwood Heights        00002488924
+201601SEM   ES    05000Daggett County            00000064098
+201601SEM   ES    23000Tooele County             00003140534
+201601SEM   ES    06008Clearfield                00001619714
+201601SEM   ES    08000Emery County              00001002400
+201601SEM   ES    25000Utah County               00012901028
+201601SEM   ES    21000Sevier County             00001327378
+201601SEM   ES    18142Taylorsville              00003046274
+201601SEM   ES    18060Herriman                  00001216632
+201601SEM   ES    10000Grand County              00000572333
+201601SEM   ES    06030Layton                    00004113647
+201601SEM   ES    17002Laketown                  00000017789
+201601SEM   ES    27035Hildale                   00000045548
+201601SEM   ES    27020St. George                00007814904
+201601SEM   ES    04000Carbon County             00000750493
+201601SEM   ES    13000Kane County               00000481560
+201601SEM   ES    09000Garfield County           00003688679
+201601SEM   ES    06000Davis County              00008296298
+201601SEM   ES    14000Millard County            00000728734
+201601SEM   ES    18122Salt Lake City            00024808809
+201601SEM   ES    17001Garden City               00000052867
+201601SEM   ES    17000Rich County               00000026180
+201601SEM   ES    17005Randolph                  00000037412
+201601SEM   ES    17010Woodruff                  00000012806
+201601SEM   ES    18999Salt Lake County/VECC     00028767540
+201601SMT   TL    25002American Fork             00000331372
+201601SMT   TL    27008Hurricane                 00000208691
+201601SMT   TL    02113Tremonton                 00000080963
+201601SMT   TL    03038Logan                     00000472658
+201601SMT   TL    02092Portage                   00000002294
+201601SMT   TL    03062Smithfield                00000083683
+201601SMT   TL    06035North Salt Lake           00000214797
+201601SMT   TL    25030Eagle Mountain            00000161999
+201601SMT   TL    25066Lehi                      00000459370
+201601SMT   TL    25097Santaquin                 00000060687
+201601SMT   TL    27035Hildale                   00000007433
+201601SMT   TL    03098Nibley                    00000035618
+201601SMT   TL    11005Enoch                     00000039814
+201601SMT   TL    21033Redmond                   00000005387
+201601SMT   TL    21034Richfield                 00000090298
+201601SMT   TL    22030Park City                 00000212409
+201601SMT   TL    02017Brigham City              00000186286
+201601SMT   TL    02044Garland                   00000021830
+201601SMT   TL    03014Clarkston                 00000005244
+201601SMT   TL    06017Farmington                00000200608
+201601SMT   TL    06030Layton                    00000671768
+201601SMT   TL    11019Parowan                   00000014482
+201601SMT   TL    12026Nephi                     00000060851
+201601SMT   TL    20023Moroni                    00000005315
+201601SMT   TL    25070Lindon                    00000153068
+201601SMT   TL    25073Mapleton                  00000069612
+201601SMT   TL    27023Springdale                00000006066
+201601SMT   TL    03059Richmond                  00000023447
+201601SMT   TL    18003Alta                      00000005223
+201601SMT   TL    01009Minersville               00000004527
+201601SMT   TL    02069Mantua                    00000006734
+201601SMT   TL    06056West Point                00000077481
+201601SMT   TL    18118Riverton                  00000388085
+201601SMT   TL    22029Oakley                    00000008592
+201601SMT   TL    18065Holladay                  00000269781
+201601SMT   TL    01002Beaver City               00000037100
+201601SMT   TL    08001Castle Dale               00000002003
+201601SMT   TL    08009Ferron                    00000000385
+201601SMT   TL    18096Murray                    00000717757
+201601SMT   TL    18122Salt Lake City            00004025671
+201601SMT   TL    22022Kamas                     00000028327
+201601SMT   TL    25088Pleasant Grove            00000269122
+201601SMT   TL    25090Provo                     00001180299
+201601SMT   TL    25117Vineyard                  00000006552
+201601SMT   TL    27002Apple Valley              00000006851
+201601SMT   TL    27010Ivins                     00000075465
+201601SMT   TL    23048Tooele City               00000294927
+201601SMT   TL    27027Washington City           00000102322
+201601SMT   TL    29049Washington Terrace        00000090534
+201601SMT   TL    06008Clearfield                00000278711
+201601SMT   TL    18139South Salt Lake           00000365898
+201601SMT   TL    06049Syracuse                  00000199454
+201601SMT   TL    09011Panguitch                 00000010972
+201601SMT   TL    12019Levan                     00000002886
+201601SMT   TL    14010Delta                     00000041882
+201601SMT   TL    20008Ephraim                   00000035404
+201601SMT   TL    24028Ballard                   00000006838
+201601SMT   TL    27020St. George                00001012424
+201601SMT   TL    27021Santa Clara               00000061436
+201601SMT   TL    18060Herriman                  00000207220
+201601SMT   TL    18155West Jordan               00001011313
+201601SMT   TL    29026North Ogden               00000162169
+201601SMT   TL    09002Boulder                   00000002191
+201601SMT   TL    09005Escalante                 00000008627
+201601SMT   TL    18131Sandy                     00001142195
+201601SMT   TL    26009Independence              00000000891
+201601SMT   TL    29031Pleasant View             00000068600
+201601SMT   TL    29037Roy                       00000314037
+201601SMT   TL    06026Kaysville                 00000314109
+201601SMT   TL    07019Roosevelt                 00000157224
+201601SMT   TL    25106Springville               00000255059
+201601SMT   TL    04035Price                     00000062166
+201601SMT   TL    06045South Weber               00000052318
+201601SMT   TL    06057Woods Cross               00000058164
+201601SMT   TL    18138South Jordan              00000722816
+201601SMT   TL    19009Monticello                00000024395
+201601SMT   TL    25124Elk Ridge                 00000021577
+201601SMT   TL    25125Woodland Hills            00000012408
+201601SMT   TL    26008Heber                     00000126978
+201601SMT   TL    04053Wellington                00000005566
+201601SMT   TL    04058East Carbon               00000002957
+201601SMT   TL    14023Hinckley                  00000002790
+201601SMT   TL    20014Gunnison                  00000008467
+201601SMT   TL    26020Hideout                   00000002207
+201601SMT   TL    11012Kanarraville              00000003996
+201601SMT   TL    18019Bluffdale                 00000096168
+201601SMT   TL    27012Leeds                     00000008469
+201601SMT   TL    20021Mayfield                  00000001653
+201601SMT   TL    25083Orem                      00000882478
+201601SMT   TL    06006Centerville               00000169989
+201601SMT   TL    06048Sunset                    00000037894
+201601SMT   TL    11028Brian Head                00000003950
+201601SMT   TL    15007Morgan City               00000032392
+201601SMT   TL    26011Midway                    00000043170
+201601SMT   TL    29016Harrisville               00000047157
+201601SMT   TL    29051West Haven                00000102168
+201601SMT   TL    25096Salem                     00000056369
+201601SMT   TL    29027Ogden                     00000895082
+201601SMT   TL    02004Bear River                00000003863
+201601SMT   TL    06061West Bountiful            00000055901
+201601SMT   TL    10011Moab                      00000063949
+201601SMT   TL    29018Hooper                    00000062292
+201601SMT   TL    21014Elsinore                  00000004274
+201601SMT   TL    18142Taylorsville              00000525072
+201601SMT   TL    29019Huntsville                00000004761
+201601SMT   TL    18039Draper                    00000560105
+201601SMT   TL    03060River Heights             00000015357
+201601SMT   TL    20004Centerfield               00000003745
+201601SMT   TL    29040South Ogden               00000166212
+201601SMT   TL    01008Milford                   00000019269
+201601SMT   TL    06004Bountiful                 00000442382
+201601SMT   TL    21031Monroe                    00000019438
+201601SMT   TL    27024Toquerville               00000005440
+201601SMT   TL    27011La Verkin                 00000034058
+201601SMT   TL    03044Millville                 00000011798
+201601SMT   TL    18167West Valley City          00001269986
+201601SMT   TL    21007Central Valley            00000001479
+201601SMT   TL    02120Willard                   00000014601
+201601SMT   TL    03076Wellsville                00000025524
+201601SMT   TL    08008Emery City                00000002042
+201601SMT   TL    13004Kanab                     00000053725
+201601SMT   TL    14014Fillmore                  00000035563
+201601SMT   TL    09015Tropic                    00000002335
+201601SMT   TL    17005Randolph                  00000006011
+201601SMT   TL    27005Enterprise                00000009476
+201601SMT   TL    11003Cedar City                00000360321
+201601SMT   TL    25085Payson                    00000156129
+201601SMT   TL    03033Hyrum                     00000015472
+201601SMT   TL    07008Duchesne City             00000032937
+201601SMT   TL    25103Spanish Fork              00000401008
+201601SMT   TL    03056Providence                00000052273
+201601SMT   TL    06059Clinton                   00000162125
+201601SMT   TL    17010Woodruff                  00000001856
+201601SMT   TL    23052Wendover                  00000009333
+201601SMT   TL    29030Plain City                00000043179
+201601SMT   TL    25098Saratoga Springs          00000141919
+201601SMT   TL    25099Highland                  00000133155
+201601SMT   TL    25123Cedar Hills               00000068800
+201601SMT   TL    26005Daniel                    00000017015
+201601SMT   TL    02041Fielding                  00000004414
+201601SMT   TL    20024Mt. Pleasant              00000027239
+201601SMT   TL    23023Grantsville               00000081885
+201601SMT   TL    24024Vernal                    00000278843
+201601SMT   TL    18093Midvale                   00000378196
+201601SMT   TL    08016Orangeville               00000013785
+201601SMT   TL    09006Hatch                     00000000873
+201601SMT   TL    29043Uintah                    00000010959
+201601SMT   TL    25001Alpine                    00000053302
+201601SMT   TL    14040Scipio                    00000000886
+201601SMT   TL    23046Stockton                  00000007122
+201601SMT   TL    06300Falcon Hill Davis         00000003395
+201601SMT   TL    26003Charleston                00000005685
+201601SMT   TL    07017Myton                     00000018709
+201601SMT   TL    04016Helper                    00000015478
+201601SMT   TL    12009Eureka                    00000002232
+201601SMT   TL    24014Naples                    00000022306
+201601SPF   FG    01000Beaver County             00000554210
+201601SPF   FG    02000Box Elder County          00003725869
+201601SPF   FG    03000Cache County              00009839030
+201601SPF   FG    04000Carbon County             00001633286
+201601SPF   FG    05000Daggett County            00000188130
+201601SPF   FG    06000Davis County              00030447170
+201601SPF   FG    07000Duchesne County           00001093015
+201601SPF   FG    08000Emery County              00000695747
+201601SPF   FG    09000Garfield County           00002414378
+201601SPF   FG    10000Grand County              00006520465
+201601SPF   FG    11000Iron County               00004574340
+201601SPF   FG    12000Juab County               00000919353
+201601SPF   FG    13000Kane County               00001825040
+201601SPF   FG    14000Millard County            00000409420
+201601SPF   FG    15000Morgan County             00000481737
+201601SPF   FG    17000Rich County               00000216803
+201601SPF   FG    18000Salt Lake County          00152493864
+201601SPF   FG    19000San Juan County           00000693805
+201601SPF   FG    20000Sanpete County            00000438876
+201601SPF   FG    21000Sevier County             00002338668
+201601SPF   FG    22000Summit County             00009363020
+201601SPF   FG    23000Tooele County             00004033717
+201601SPF   FG    24000Uintah County             00003261654
+201601SPF   FG    25000Utah County               00051881180
+201601SPF   FG    26000Wasatch County            00002378720
+201601SPF   FG    27000Washington County         00019625446
+201601SPF   FG    28000Wayne County              00000500886
+201601SPF   FG    29000Weber County              00024403970
+201601STC   TN    18139South Salt Lake           00021342160
+201601STC   TN    29036Riverdale                 00010745397
+201601STC   CO    01000Beaver County             00001927414
+201601STC   CO    02000Box Elder County          00014358674
+201601STC   CO    03000Cache County              00034274970
+201601STC   CO    04000Carbon County             00007161060
+201601STC   CO    05000Daggett County            00000372543
+201601STC   CO    06000Davis County              00100720953
+201601STC   CO    07000Duchesne County           00007699959
+201601STC   CO    08000Emery County              00002996026
+201601STC   CO    09000Garfield County           00002389388
+201601STC   CO    10000Grand County              00006340136
+201601STC   CO    11000Iron County               00014640622
+201601STC   CO    12000Juab County               00002700912
+201601STC   CO    13000Kane County               00002969437
+201601STC   CO    14000Millard County            00003748391
+201601STC   CO    15000Morgan County             00002717659
+201601STC   CO    16000Piute County              00000314003
+201601STC   CO    17000Rich County               00000583256
+201601STC   CO    18000Salt Lake County          00403458819
+201601STC   CO    19000San Juan County           00003861938
+201601STC   CO    20000Sanpete County            00006777518
+201601STC   CO    21000Sevier County             00007041403
+201601STC   CO    22000Summit County             00016745265
+201601STC   CO    23000Tooele County             00016331784
+201601STC   CO    24000Uintah County             00013481173
+201601STC   CO    25000Utah County               00162761190
+201601STC   CO    26000Wasatch County            00008547256
+201601STC   CO    27000Washington County         00053203855
+201601STC   CO    28000Wayne County              00000940577
+201601STC   CO    29000Weber County              00075741179
+201601STC   MF    25000Utah County               00138183058
+201601STC   HT    26008Heber                     00005547199
+201601STC   HT    27020St. George                00041387603
+201601STC   HT    07019Roosevelt                 00003998721
+201601STC   HT    27010Ivins                     00000981907
+201601STC   HT    27021Santa Clara               00000369281
+201601STC   HT    26011Midway                    00000664717
+201601STC   HT    11028Brian Head                00000170625
+201601STC   HT    20009Fairview                  00000184084
+201601STC   HT    12026Nephi                     00001295971
+201601STC   HT    08011Green River               00000689341
+201601STC   HT    24024Vernal                    00009463328
+201601STC   HT    27027Washington City           00006861633
+201601STC   HT    19002Blanding                  00000598794
+201601STC   HT    20008Ephraim                   00001520839
+201601STC   HT    24014Naples                    00002736493
+201601STC   HT    20014Gunnison                  00000625721
+201601STC   HT    10011Moab                      00007483703
+201601STC   HT    27011La Verkin                 00000305686
+201601STC   HT    21035Salina                    00001063539
+201601STC   HT    04035Price                     00005491123
+201601STC   HT    21034Richfield                 00004941652
+201601STC   HT    27008Hurricane                 00004973985
+201601STC   HT    04053Wellington                00000264440
+201601STC   HT    19009Monticello                00000429063
+201601STC   HT    20024Mt. Pleasant              00000518519
+201601STC   HC    25000Utah County               00125897810
+201601STC   LS    01000Beaver County             00001346002
+201601STC   LS    01002Beaver City               00003875993
+201601STC   LS    01008Milford                   00001722977
+201601STC   LS    01009Minersville               00000684295
+201601STC   LS    02000Box Elder County          00009220541
+201601STC   LS    02004Bear River                00000682430
+201601STC   LS    02017Brigham City              00020500629
+201601STC   LS    02025Corinne                   00001020019
+201601STC   LS    02032Deweyville                00000302128
+201601STC   LS    02035Elwood                    00000888825
+201601STC   LS    02041Fielding                  00000331805
+201601STC   LS    02044Garland                   00001770791
+201601STC   LS    02054Honeyville                00001183900
+201601STC   LS    02057Howell                    00000181307
+201601STC   LS    02069Mantua                    00000487092
+201601STC   LS    02086Perry                     00006635319
+201601STC   LS    02090Plymouth                  00000538334
+201601STC   LS    02092Portage                   00000185303
+201601STC   LS    02100Snowville                 00000296610
+201601STC   LS    02113Tremonton                 00010987559
+201601STC   LS    02120Willard                   00001582459
+201601STC   LS    03000Cache County              00005406382
+201601STC   LS    03001Amalga                    00000443293
+201601STC   LS    03014Clarkston                 00000483600
+201601STC   LS    03017Cornish                   00000225274
+201601STC   LS    03032Hyde Park                 00004807181
+201601STC   LS    03033Hyrum                     00007469544
+201601STC   LS    03036Lewiston                  00001408548
+201601STC   LS    03038Logan                     00069145867
+201601STC   LS    03041Mendon                    00001020446
+201601STC   LS    03044Millville                 00001401354
+201601STC   LS    03047Newton                    00000541185
+201601STC   LS    03049North Logan               00014691703
+201601STC   LS    03053Paradise                  00000655169
+201601STC   LS    03056Providence                00006799892
+201601STC   LS    03059Richmond                  00002040576
+201601STC   LS    03060River Heights             00001350711
+201601STC   LS    03062Smithfield                00009994159
+201601STC   LS    03076Wellsville                00002666437
+201601STC   LS    03081Trenton                   00000364202
+201601STC   LS    03098Nibley                    00004713083
+201601STC   LS    04000Carbon County             00011483359
+201601STC   LS    04016Helper                    00004063223
+201601STC   LS    04035Price                     00016238768
+201601STC   LS    04040Scofield                  00000032288
+201601STC   LS    04053Wellington                00007345806
+201601STC   LS    04058East Carbon               00001789185
+201601STC   LS    05000Daggett County            00001049555
+201601STC   LS    05006Manila                    00000426649
+201601STC   LS    06000Davis County              00005529773
+201601STC   LS    06004Bountiful                 00049015935
+201601STC   LS    06006Centerville               00027486799
+201601STC   LS    06008Clearfield                00027878499
+201601STC   LS    06010Fruit Heights             00004615645
+201601STC   LS    06017Farmington                00028168117
+201601STC   LS    06026Kaysville                 00028538639
+201601STC   LS    06030Layton                    00101971725
+201601STC   LS    06035North Salt Lake           00025681021
+201601STC   LS    06045South Weber               00005483216
+201601STC   LS    06048Sunset                    00005762239
+201601STC   LS    06049Syracuse                  00025535393
+201601STC   LS    06056West Point                00007378272
+201601STC   LS    06057Woods Cross               00017994813
+201601STC   LS    06059Clinton                   00022961472
+201601STC   LS    06061West Bountiful            00014554348
+201601STC   LS    06300Falcon Hill Davis         00000361646
+201601STC   LS    07000Duchesne County           00013753880
+201601STC   LS    07001Altamont                  00000400807
+201601STC   LS    07008Duchesne City             00002171541
+201601STC   LS    07017Myton                     00001928263
+201601STC   LS    07019Roosevelt                 00012146694
+201601STC   LS    07020Tabiona                   00000142264
+201601STC   LS    08000Emery County              00008568523
+201601STC   LS    08001Castle Dale               00002370576
+201601STC   LS    08003Clawson                   00000139343
+201601STC   LS    08004Cleveland                 00000390806
+201601STC   LS    08007Elmo                      00000292671
+201601STC   LS    08008Emery City                00000493267
+201601STC   LS    08009Ferron                    00001253707
+201601STC   LS    08011Green River               00001883550
+201601STC   LS    08012Huntington                00006085397
+201601STC   LS    08016Orangeville               00001165187
+201601STC   LS    09000Garfield County           00002717676
+201601STC   LS    09001Antimony                  00000166670
+201601STC   LS    09002Boulder                   00000299888
+201601STC   LS    09003Bryce Canyon              00002350433
+201601STC   LS    09004Cannonville               00000207059
+201601STC   LS    09005Escalante                 00000973820
+201601STC   LS    09006Hatch                     00000128587
+201601STC   LS    09008Henrieville               00000155501
+201601STC   LS    09011Panguitch                 00001761775
+201601STC   LS    09015Tropic                    00000766020
+201601STC   LS    10000Grand County              00007474245
+201601STC   LS    10005Castle Valley             00000317884
+201601STC   LS    10011Moab                      00017506586
+201601STC   LS    11000Iron County               00006595472
+201601STC   LS    11003Cedar City                00043209782
+201601STC   LS    11005Enoch                     00004478241
+201601STC   LS    11012Kanarraville              00000273039
+201601STC   LS    11018Paragonah                 00000410235
+201601STC   LS    11019Parowan                   00002667219
+201601STC   LS    11028Brian Head                00000340313
+201601STC   LS    12000Juab County               00001161427
+201601STC   LS    12009Eureka                    00000516757
+201601STC   LS    12019Levan                     00000664952
+201601STC   LS    12024Mona                      00001529328
+201601STC   LS    12026Nephi                     00006117462
+201601STC   LS    12030Rocky Ridge               00000673439
+201601STC   LS    13000Kane County               00002873375
+201601STC   LS    13001Alton                     00000124208
+201601STC   LS    13002Glendale                  00000275189
+201601STC   LS    13004Kanab                     00006184194
+201601STC   LS    13007Orderville                00000954868
+201601STC   LS    13010Big Water                 00001389260
+201601STC   LS    14000Millard County            00004112310
+201601STC   LS    14010Delta                     00004955561
+201601STC   LS    14014Fillmore                  00003239902
+201601STC   LS    14023Hinckley                  00000490604
+201601STC   LS    14024Holden                    00000307635
+201601STC   LS    14026Kanosh                    00000345165
+201601STC   LS    14028Leamington                00000159152
+201601STC   LS    14030Lynndyl                   00000149299
+201601STC   LS    14034Meadow                    00000251153
+201601STC   LS    14037Oak City                  00000422758
+201601STC   LS    14040Scipio                    00000430917
+201601STC   LS    15000Morgan County             00005943029
+201601STC   LS    15007Morgan City               00004796303
+201601STC   LS    16000Piute County              00000203309
+201601STC   LS    16003Circleville               00000408449
+201601STC   LS    16005Junction                  00000128058
+201601STC   LS    16006Kingston                  00000110654
+201601STC   LS    16007Marysvale                 00000387275
+201601STC   LS    17000Rich County               00000651307
+201601STC   LS    17001Garden City               00000934451
+201601STC   LS    17002Laketown                  00000197527
+201601STC   LS    17005Randolph                  00000377643
+201601STC   LS    17010Woodruff                  00000150594
+201601STC   LS    18000Salt Lake County          00168631255
+201601STC   LS    18003Alta                      00000676916
+201601STC   LS    18019Bluffdale                 00009136417
+201601STC   LS    18020Cottonwood Heights        00040308558
+201601STC   LS    18039Draper                    00080683740
+201601STC   LS    18060Herriman                  00023304628
+201601STC   LS    18065Holladay                  00028369921
+201601STC   LS    18093Midvale                   00043045422
+201601STC   LS    18096Murray                    00108226243
+201601STC   LS    18118Riverton                  00042802970
+201601STC   LS    18122Salt Lake City            00386618760
+201601STC   LS    18131Sandy                     00156181309
+201601STC   LS    18138South Jordan              00086527787
+201601STC   LS    18139South Salt Lake           00070143251
+201601STC   LS    18142Taylorsville              00059479727
+201601STC   LS    18155West Jordan               00126245181
+201601STC   LS    18167West Valley City          00172184750
+201601STC   LS    18300UT Data Ctr SL Co         00000018594
+201601STC   LS    19000San Juan County           00009314460
+201601STC   LS    19002Blanding                  00003694868
+201601STC   LS    19009Monticello                00002249737
+201601STC   LS    20000Sanpete County            00005197121
+201601STC   LS    20004Centerfield               00001389166
+201601STC   LS    20008Ephraim                   00007541580
+201601STC   LS    20009Fairview                  00001137167
+201601STC   LS    20010Fayette                   00000186094
+201601STC   LS    20011Fountain Green            00000800293
+201601STC   LS    20014Gunnison                  00003351502
+201601STC   LS    20020Manti                     00002686628
+201601STC   LS    20021Mayfield                  00000352251
+201601STC   LS    20023Moroni                    00001283860
+201601STC   LS    20024Mt. Pleasant              00003294857
+201601STC   LS    20031Spring City               00000803770
+201601STC   LS    20032Sterling                  00000183602
+201601STC   LS    20033Wales                     00000247352
+201601STC   LS    21000Sevier County             00011352621
+201601STC   LS    21001Annabella                 00000576364
+201601STC   LS    21002Aurora                    00000903097
+201601STC   LS    21007Central Valley            00000392702
+201601STC   LS    21014Elsinore                  00000903205
+201601STC   LS    21018Glenwood                  00000359552
+201601STC   LS    21025Joseph                    00000310119
+201601STC   LS    21029Koosharem                 00000240817
+201601STC   LS    21031Monroe                    00001872664
+201601STC   LS    21033Redmond                   00000880950
+201601STC   LS    21034Richfield                 00014648363
+201601STC   LS    21035Salina                    00003715534
+201601STC   LS    21038Sigurd                    00000322402
+201601STC   LS    22000Summit County             00039599018
+201601STC   LS    22006Coalville                 00001629413
+201601STC   LS    22013Francis                   00000875661
+201601STC   LS    22017Henefer                   00000604995
+201601STC   LS    22022Kamas                     00003052654
+201601STC   LS    22029Oakley                    00001290750
+201601STC   LS    22030Park City                 00019646481
+201601STC   LS    23000Tooele County             00015939005
+201601STC   LS    23023Grantsville               00008665647
+201601STC   LS    23037Ophir                     00000033017
+201601STC   LS    23046Stockton                  00000583525
+201601STC   LS    23048Tooele City               00037443091
+201601STC   LS    23050Vernon                    00000205680
+201601STC   LS    23052Wendover                  00001324906
+201601STC   LS    23056Rush Valley               00000368957
+201601STC   LS    24000Uintah County             00019765599
+201601STC   LS    24014Naples                    00006059781
+201601STC   LS    24024Vernal                    00025777709
+201601STC   LS    24028Ballard                   00002013826
+201601STC   LS    25000Utah County               00011487922
+201601STC   LS    25001Alpine                    00007796829
+201601STC   LS    25002American Fork             00035828120
+201601STC   LS    25019Cedar Fort                00000333463
+201601STC   LS    25030Eagle Mountain            00019206702
+201601STC   LS    25035Fairfield                 00000107514
+201601STC   LS    25038Genola                    00001071320
+201601STC   LS    25043Goshen                    00000658286
+201601STC   LS    25066Lehi                      00068841729
+201601STC   LS    25070Lindon                    00027608862
+201601STC   LS    25073Mapleton                  00007117045
+201601STC   LS    25083Orem                      00140805885
+201601STC   LS    25085Payson                    00021992145
+201601STC   LS    25088Pleasant Grove            00034996146
+201601STC   LS    25090Provo                     00119486926
+201601STC   LS    25096Salem                     00006248941
+201601STC   LS    25097Santaquin                 00007702447
+201601STC   LS    25098Saratoga Springs          00023030150
+201601STC   LS    25099Highland                  00015006112
+201601STC   LS    25103Spanish Fork              00044764661
+201601STC   LS    25106Springville               00034535325
+201601STC   LS    25117Vineyard                  00001663736
+201601STC   LS    25123Cedar Hills               00008916979
+201601STC   LS    25124Elk Ridge                 00002214196
+201601STC   LS    25125Woodland Hills            00001072606
+201601STC   LS    26000Wasatch County            00007117043
+201601STC   LS    26003Charleston                00000809263
+201601STC   LS    26005Daniel                    00000753721
+201601STC   LS    26008Heber                     00019971185
+201601STC   LS    26009Independence              00000183144
+201601STC   LS    26011Midway                    00004155072
+201601STC   LS    26014Wallsburg                 00000241272
+201601STC   LS    26020Hideout                   00000496099
+201601STC   LS    27000Washington County         00006917395
+201601STC   LS    27002Apple Valley              00000515819
+201601STC   LS    27005Enterprise                00001854098
+201601STC   LS    27008Hurricane                 00019493981
+201601STC   LS    27010Ivins                     00006691412
+201601STC   LS    27011La Verkin                 00003521253
+201601STC   LS    27012Leeds                     00000622048
+201601STC   LS    27015New Harmony Town          00000181758
+201601STC   LS    27019Rockville                 00000188773
+201601STC   LS    27020St. George                00129045777
+201601STC   LS    27021Santa Clara               00004988653
+201601STC   LS    27023Springdale                00003912286
+201601STC   LS    27024Toquerville               00001027060
+201601STC   LS    27026Virgin                    00000592424
+201601STC   LS    27027Washington City           00028951177
+201601STC   LS    27035Hildale                   00002413376
+201601STC   LS    28000Wayne County              00001060169
+201601STC   LS    28001Bicknell                  00000357440
+201601STC   LS    28005Hanksville                00000366693
+201601STC   LS    28007Loa                       00000942844
+201601STC   LS    28008Lyman                     00000176540
+201601STC   LS    28010Torrey                    00000824474
+201601STC   LS    29000Weber County              00015197518
+201601STC   LS    29012Farr West                 00007107191
+201601STC   LS    29016Harrisville               00010080161
+201601STC   LS    29018Hooper                    00006014019
+201601STC   LS    29019Huntsville                00000615619
+201601STC   LS    29022Marriot-Slaterville       00003867203
+201601STC   LS    29026North Ogden               00016765150
+201601STC   LS    29027Ogden                     00111638708
+201601STC   LS    29030Plain City                00004548558
+201601STC   LS    29031Pleasant View             00007852367
+201601STC   LS    29036Riverdale                 00035114647
+201601STC   LS    29037Roy                       00033779648
+201601STC   LS    29040South Ogden               00023737561
+201601STC   LS    29043Uintah                    00001621583
+201601STC   LS    29049Washington Terrace        00007102440
+201601STC   LS    29051West Haven                00015090990
+201601STC   CT    29000Weber County              00046972647
+201601STC   CT    03000Cache County              00024797358
+201601STC   CT    18000Salt Lake County          00297828601
+201601STC   MA    18000Salt Lake County          00320966586
+201601STC   MA    06000Davis County              00080943412
+201601STC   MA    29000Weber County              00063267412
+201601STC   MA    02017Brigham City              00003643088
+201601STC   MA    02086Perry                     00001364637
+201601STC   MA    02120Willard                   00000178000
+201601STC   MM    02120Willard                   00000209146
+201601STC   MM    25002American Fork             00000007732
+201601STC   MM    03038Logan                     00018952035
+201601STC   MM    03036Lewiston                  00000104916
+201601STC   MM    02017Brigham City              00004280865
+201601STC   MM    23048Tooele City               00007799641
+201601STC   MM    03032Hyde Park                 00000984374
+201601STC   MM    03044Millville                 00000075188
+201601STC   MM    03049North Logan               00004105330
+201601STC   MM    03098Nibley                    00000394000
+201601STC   MM    25090Provo                     00000108084
+201601STC   MM    03060River Heights             00000069203
+201601STC   MM    22030Park City                 00007697495
+201601STC   MM    03062Smithfield                00001149914
+201601STC   MM    03059Richmond                  00000211692
+201601STC   MM    25083Orem                      00000107196
+201601STC   MM    03033Hyrum                     00001211745
+201601STC   MM    03056Providence                00000750414
+201601STC   MM    02086Perry                     00001603460
+201601STC   MM    03900Cache Valley Transit      00000012657
+201601STC   MM    25066Lehi                      00000052355
+201601STC   MM    25106Springville               00000001555
+201601STC   MM    25088Pleasant Grove            00000004162
+201601STC   MM    25085Payson                    00000007338
+201601STC   MM    25103Spanish Fork              00000007883
+201601STC   MM    25073Mapleton                  00000015550
+201601STC   MM    25070Lindon                    00000001857
+201601STC   MM    25099Highland                  00000016230
+201601STC   MM    25030Eagle Mountain            00000001674
+201601STC   MM    25001Alpine                    00000000150
+201601STC   MM    25097Santaquin                 00000005122
+201601STC   MM    23000Tooele County             00002514412
+201601STC   MM    22000Summit County             00010399898
+201601STC   MT    06000Davis County              00081346072
+201601STC   MT    29000Weber County              00063584002
+201601STC   MT    25000Utah County               00125446866
+201601STC   MT    18000Salt Lake County          00483796922
+201601STC   RA    11028Brian Head                00000263422
+201601STC   RA    22030Park City                 00012242707
+201601STC   RA    10011Moab                      00011918133
+201601STC   RA    27023Springdale                00003361906
+201601STC   RA    18003Alta                      00000418948
+201601STC   RA    08011Green River               00001120666
+201601STC   RA    17001Garden City               00000467918
+201601STC   RR    13004Kanab                     00005312509
+201601STC   RR    17001Garden City               00001034451
+201601STC   RR    09002Boulder                   00000292310
+201601STC   RR    09005Escalante                 00000866215
+201601STC   RR    09011Panguitch                 00001172471
+201601STC   RR    26011Midway                    00002277072
+201601STC   RR    27023Springdale                00007419997
+201601STC   RR    10011Moab                      00026303018
+201601STC   RR    08011Green River               00002248566
+201601STC   RR    11028Brian Head                00000581404
+201601STC   RR    13007Orderville                00000991704
+201601STC   RR    18003Alta                      00000840598
+201601STC   RR    26009Independence              00000163138
+201601STC   RR    22030Park City                 00028071675
+201601STC   RR    09015Tropic                    00000719221
+201601STC   RR    09003Bryce Canyon              00004547056
+201601STC   MH    01002Beaver City               00002687483
+201601STC   RH    09000Garfield County           00011432502
+201601STC   RH    13000Kane County               00012782853
+201601STC   RH    24000Uintah County             00000119704
+201601STC   RH    05000Daggett County            00001410436
+201601STC   SM    29000Weber County              00012649830
+201601STC   SM    06000Davis County              00016182941
+201601STC   TO    02100Snowville                 00000281071
+201601STC   CZ    29000Weber County              00025286618
+201601STC   CZ    24000Uintah County             00005311664
+201601STC   CZ    18000Salt Lake County          00160359976
+201601STC   CZ    27000Washington County         00019359594
+201601STC   CZ    22000Summit County             00007310998
+201601STC   CZ    03000Cache County              00010012411
+201601STC   MZ    21034Richfield                 00001658267
+201601STC   MZ    06006Centerville               00002864374
+201601STC   MZ    07008Duchesne City             00000147701
+201601STC   MZ    11003Cedar City                00004161252
+201601STC   MZ    19002Blanding                  00000201196
+201601STC   MZ    25002American Fork             00006290029
+201601STC   MZ    06057Woods Cross               00002138458
+201601STC   MZ    11028Brian Head                00000057329
+201601STC   MZ    21033Redmond                   00000081144
+201601STC   MZ    23048Tooele City               00002673339
+201601STC   MZ    04035Price                     00001845045
+201601STC   MZ    06004Bountiful                 00003623072
+201601STC   MZ    06035North Salt Lake           00002576096
+201601STC   MZ    19009Monticello                00000144173
+201601STC   MZ    20021Mayfield                  00000004990
+201601STC   MZ    07019Roosevelt                 00001343057
+201601STC   MZ    06008Clearfield                00001428458
+201601STC   MZ    25083Orem                      00014572565
+201601STC   MZ    04016Helper                    00000137345
+201601STC   MZ    21002Aurora                    00000048069
+201601STC   MZ    25070Lindon                    00003955924
+201601STC   MZ    25123Cedar Hills               00000299458
+201601STC   MZ    21035Salina                    00000357353
+201601STC   MZ    06061West Bountiful            00001665855
+201601STC   MZ    20014Gunnison                  00000209884
+201601STC   MZ    20004Centerfield               00000099049
+201601STC   MZ    06017Farmington                00000000652
+201601STE   ET    07008Duchesne City             00000789642
+201601STE   ET    07017Myton                     00000159946
+201601STE   ET    07019Roosevelt                 00002900291
+201601STE   ET    18167West Valley City          00002187076
+201601STE   ET    06061West Bountiful            00000004326
+201601STE   ET    18096Murray                    00000326527
+201601STE   ET    18122Salt Lake City            00004384400
+201601STE   ET    18131Sandy                     00000036307
+201601STE   ET    18138South Jordan              00000936391
+201601STE   ET    25066Lehi                      00000728975
+201601STE   ET    25083Orem                      00000108033
+201601STE   ET    25103Spanish Fork              00001009106
+201601STE   ET    29040South Ogden               00000002513
+201601STE   ET    02017Brigham City              00000054983
+201601STE   ET    09005Escalante                 00000205056
+201601STE   ET    09015Tropic                    00000240161
+201601STE   ET    13004Kanab                     00001726905
+201601STE   ET    25106Springville               00000532758
+201601STE   ET    27035Hildale                   00000662490
+201601STE   ET    03033Hyrum                     00000268385
+201601STE   ET    03038Logan                     00001792816
+201601STE   ET    03059Richmond                  00000035952
+201601STE   ET    03062Smithfield                00000187290
+201601STE   ET    04035Price                     00000062665
+201601STE   ET    06004Bountiful                 00000039736
+201601STE   ET    06006Centerville               00000053276
+201601STE   ET    06008Clearfield                00000415550
+201601STE   ET    06017Farmington                00000006733
+201601STE   ET    06030Layton                    00000026651
+201601STE   ET    06035North Salt Lake           00000079557
+201601STE   ET    06057Woods Cross               00000109023
+201601STE   ET    11003Cedar City                00000165176
+201601STE   ET    18039Draper                    00000185672
+201601STE   ET    18093Midvale                   00000004693
+201601STE   ET    18139South Salt Lake           00000394096
+201601STE   ET    18155West Jordan               00001053489
+201601STE   ET    20008Ephraim                   00000071686
+201601STE   ET    22030Park City                 00000249590
+201601STE   ET    23048Tooele City               00000015962
+201601STE   ET    25002American Fork             00000223459
+201601STE   ET    25085Payson                    00000137804
+201601STE   ET    25090Provo                     00000326600
+201601STE   ET    26008Heber                     00000037691
+201601STE   ET    26011Midway                    00000018642
+201601STE   ET    29027Ogden                     00002538499
+201601STE   ET    02113Tremonton                 00000366834
+201601STE   ET    24024Vernal                    00000023749
+201601STE   ET    27008Hurricane                 00000301372
+201601STE   ET    27020St. George                00007268398
+201601STE   ET    27027Washington City           00001281698
+201601STE   ET    19009Monticello                00000769054
+201601STE   ET    25096Salem                     00000063408
+201601STE   ET    25097Santaquin                 00000063408
+201601STE   ET    18118Riverton                  00000082563
+201601STL   FF    06000Davis County              00000793564
+201601STL   FF    10000Grand County              00001035194
+201601STL   FF    18000Salt Lake County          00039982917
+201601STL   FF    21000Sevier County             00000016689
+201601STL   FF    24000Uintah County             00000062352
+201601STL   FF    25000Utah County               00001479052
+201601STL   FF    27000Washington County         00001516617
+201601STL   FF    29000Weber County              00000707939
+201601STL   FP    06000Davis County              00003179385
+201601STL   FP    15000Morgan County             00000078467
+201601STL   FP    18000Salt Lake County          00045392993
+201601STL   FP    21000Sevier County             00000169234
+201601STL   FP    25000Utah County               00005529962
+201601STL   FP    27000Washington County         00002539467
+201601STL   FP    29000Weber County              00002439533
+201601STR   TR    01000Beaver County             00001593334
+201601STR   TR    02000Box Elder County          00002450693
+201601STR   TR    03000Cache County              00003302129
+201601STR   TR    04000Carbon County             00001443850
+201601STR   TR    05000Daggett County            00000810258
+201601STR   TR    06000Davis County              00013189104
+201601STR   TR    07000Duchesne County           00000504431
+201601STR   TR    08000Emery County              00004049135
+201601STR   TR    09000Garfield County           00017786898
+201601STR   TR    10000Grand County              00051799845
+201601STR   TR    11000Iron County               00008940274
+201601STR   TR    12000Juab County               00000375834
+201601STR   TR    13000Kane County               00017941953
+201601STR   TR    14000Millard County            00001015275
+201601STR   TR    15000Morgan County             00000074686
+201601STR   TR    16000Piute County              00000203996
+201601STR   TR    17000Rich County               00000856932
+201601STR   TR    18000Salt Lake County          00121997765
+201601STR   TR    19000San Juan County           00007375129
+201601STR   TR    20000Sanpete County            00001191283
+201601STR   TR    21000Sevier County             00004981858
+201601STR   TR    22000Summit County             00018693473
+201601STR   TR    23000Tooele County             00003972971
+201601STR   TR    24000Uintah County             00005175870
+201601STR   TR    25000Utah County               00020764622
+201601STR   TR    26000Wasatch County            00002950834
+201601STR   TR    27000Washington County         00049752802
+201601STR   TR    28000Wayne County              00004202688
+201601STR   TR    29000Weber County              00009120785
+201601STR   TA    07019Roosevelt                 00000008104
+201601STR   TA    10011Moab                      00004282950
+201601STR   TA    18131Sandy                     00001174101
+201601STR   TA    18167West Valley City          00000922203
+201601STR   TA    25090Provo                     00001138540
+201601STR   TA    25106Springville               00000181729
+201601STR   TM    01008Milford                   00000043010
+201601STR   TM    02017Brigham City              00000193171
+201601STR   TM    02086Perry                     00000116959
+201601STR   TM    02113Tremonton                 00000203233
+201601STR   TM    03038Logan                     00000857283
+201601STR   TM    03049North Logan               00000194221
+201601STR   TM    04035Price                     00000301675
+201601STR   TM    06008Clearfield                00000046955
+201601STR   TM    06017Farmington                00000236832
+201601STR   TM    06030Layton                    00001760563
+201601STR   TM    06035North Salt Lake           00000425126
+201601STR   TM    06057Woods Cross               00000403031
+201601STR   TM    06061West Bountiful            00000166152
+201601STR   TM    07019Roosevelt                 00000016209
+201601STR   TM    08011Green River               00000912835
+201601STR   TM    09005Escalante                 00000206409
+201601STR   TM    10011Moab                      00008565896
+201601STR   TM    11003Cedar City                00001895521
+201601STR   TM    11028Brian Head                00000195469
+201601STR   TM    13002Glendale                  00000015262
+201601STR   TM    13004Kanab                     00001274896
+201601STR   TM    14010Delta                     00000064856
+201601STR   TM    14014Fillmore                  00000216163
+201601STR   TM    18020Cottonwood Heights        00000141503
+201601STR   TM    18039Draper                    00000573255
+201601STR   TM    18065Holladay                  00000667614
+201601STR   TM    18093Midvale                   00001209135
+201601STR   TM    18096Murray                    00001549118
+201601STR   TM    18122Salt Lake City            00023354336
+201601STR   TM    18131Sandy                     00002348203
+201601STR   TM    18138South Jordan              00000649183
+201601STR   TM    18139South Salt Lake           00000275603
+201601STR   TM    18155West Jordan               00000264045
+201601STR   TM    18167West Valley City          00001844407
+201601STR   TM    19002Blanding                  00000222730
+201601STR   TM    19009Monticello                00000308916
+201601STR   TM    21034Richfield                 00000747639
+201601STR   TM    21035Salina                    00000230536
+201601STR   TM    23048Tooele City               00000115431
+201601STR   TM    24014Naples                    00000046041
+201601STR   TM    24024Vernal                    00000981299
+201601STR   TM    24028Ballard                   00000177256
+201601STR   TM    25066Lehi                      00000569114
+201601STR   TM    25083Orem                      00001049595
+201601STR   TM    25085Payson                    00000087936
+201601STR   TM    25090Provo                     00002277081
+201601STR   TM    25106Springville               00000363458
+201601STR   TM    26008Heber                     00000171255
+201601STR   TM    26011Midway                    00000162978
+201601STR   TM    27008Hurricane                 00000757846
+201601STR   TM    27010Ivins                     00001188366
+201601STR   TM    27019Rockville                 00000012777
+201601STR   TM    27020St. George                00004687359
+201601STR   TM    27021Santa Clara               00000005819
+201601STR   TM    27023Springdale                00004633711
+201601STR   TM    27026Virgin                    00000176944
+201601STR   TM    28005Hanksville                00000053798
+201601STR   TM    29012Farr West                 00000092717
+201601STR   TM    29022Marriot-Slaterville       00000313556
+201601STR   TM    29027Ogden                     00000912546
+201601STR   TM    29036Riverdale                 00000098023
+201601STR   TM    29043Uintah                    00000084669
+201601STR   TM    29051West Haven                00000489563
+201601STR   TT    18000Salt Lake County          00016885501
