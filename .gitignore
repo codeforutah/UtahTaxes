@@ -110,3 +110,4 @@ venv.bak/
 #project specific files
 client_secret.json
 sheets.googleapis.com-python.json
+OutputCsv/
