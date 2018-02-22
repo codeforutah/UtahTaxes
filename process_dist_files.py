@@ -12,7 +12,7 @@ import numpy as np
 import pandas as pd
 
 SRC_FILES = os.path.abspath('./DistributionFiles')
-DST_FILES = os.path.abspath('./DistributionCSV')
+DST_FILE = os.path.abspath('./TaxDataFull.csv')
 
 
 def _fixtup(s):
@@ -54,11 +54,38 @@ def _translate_codes():
     rd = pd.Series(tl['Component Name'].values, index=tl['Component Code']).to_dict()
     return { x.strip():_fixtup(rd[x]) for x in rd}
 
+def _extract_legacy_loc(c):
+    """Return location string"""
+    return c[12:]
+
+def _extract_legacy_loc_code(c):
+    """Returns location code int"""
+    return np.int64(c[7:12])
+
+def _legacy_file(dframe):
+    """Process legacy file with only two columns (example below)"""
+    # 200901G11000Iron County               00004213516
+    date_code = _format_adjust_date(dframe['Date'][:6][0])
+    # Fill in Location and Distribution first
+    dframe['Location'] = dframe['Date'].apply(_extract_legacy_loc)
+    dframe['Dollars_Distributed'] = dframe['Tax'].apply(_add_decimal)
+    dframe['LocationCode'] = dframe['Date'].apply(_extract_legacy_loc_code)
+    dframe['Tax'] = 'unknown'
+    dframe['Date'] = date_code
+
+    return dframe
+
+
 def process_distribution_file(dfile, codes):
     """Process distribution txt file and write to csv"""
     df = pd.read_fwf(dfile,
             header=None,
-            names=['Date', 'Tax', 'Location', 'Distribution'])
+            names=['Date', 'Tax', 'Location', 'Dollars_Distributed'])
+
+    # Legacy files only have two columns
+    if df['Location'].isnull().all() and df['Dollars_Distributed'].isnull().all():
+        return _legacy_file(df)
+
     # Codes to text
     for code in codes:
         df.replace(code, codes[code], inplace=True)
@@ -70,19 +97,24 @@ def process_distribution_file(dfile, codes):
     df['Date'] = _format_adjust_date(df['Date'].str[:-3][0])
 
     # Add decimal to distribution and rename distribution column
-    df['Distribution'] = df['Distribution'].apply(_add_decimal)
-    df.rename(columns = {'Distribution': 'Dollars_Distributed'}, inplace=True)
+    df['Dollars_Distributed'] = df['Dollars_Distributed'].apply(_add_decimal)
 
-    if not os.path.exists(DST_FILES):
-        os.mkdir(DST_FILES)
-    year, month = _read_year_month(df['Date'][0])
-    df.to_csv('{}/{}_{}_sales_taxes.csv'.format(DST_FILES, year, month))
+    return df
+
+def write_csv(dframe, loc):
+    if os.path.isfile(loc):
+        dframe.to_csv(loc, index=False, mode='a', header=False)
+    else:
+        dframe.to_csv(loc, index=False, mode='w')
+
 
 if __name__ == '__main__':
-    codes = _translate_codes()
+    code_lookup = _translate_codes()
     for f in os.listdir(SRC_FILES):
         print("Processing file: {}".format(f))
         try:
-            process_distribution_file(os.path.join(SRC_FILES, f), codes)
+            rdf = process_distribution_file(os.path.join(SRC_FILES, f), code_lookup)
         except Exception as e:
             print("ERROR: Could not process {}: {}".format(f, str(e)))
+        else:
+            write_csv(rdf, DST_FILE)
