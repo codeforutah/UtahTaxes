@@ -54,15 +54,14 @@ def _translate_codes():
     rd = pd.Series(tl['Component Name'].values, index=tl['Component Code']).to_dict()
     return { x.strip():_fixtup(rd[x]) for x in rd}
 
-def process_distribution_file(dfile):
+def process_distribution_file(dfile, codes):
     """Process distribution txt file and write to csv"""
     df = pd.read_fwf(dfile,
             header=None,
             names=['Date', 'Tax', 'Location', 'Distribution'])
     # Codes to text
-    code_lookup = _translate_codes()
-    for code in code_lookup:
-        df.replace(code, code_lookup[code], inplace=True)
+    for code in codes:
+        df.replace(code, codes[code], inplace=True)
 
     #Separate Location Code from Location; remove 'SEM' from Date
     df['LocationCode'] = df['Location'].str[:5].apply(np.int64)
@@ -80,9 +79,10 @@ def process_distribution_file(dfile):
     df.to_csv('{}/{}_{}_sales_taxes.csv'.format(DST_FILES, year, month))
 
 if __name__ == '__main__':
+    codes = _translate_codes()
     for f in os.listdir(SRC_FILES):
         print("Processing file: {}".format(f))
         try:
-            process_distribution_file(os.path.join(SRC_FILES, f))
+            process_distribution_file(os.path.join(SRC_FILES, f), codes)
         except Exception as e:
             print("ERROR: Could not process {}: {}".format(f, str(e)))
