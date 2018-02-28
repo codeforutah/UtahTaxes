@@ -34,7 +34,7 @@ from subprocess import check_output
 
 # Column Format
 cols = (
-    'jcode city tot_dist tot_dec fin_dist '
+    'jcode city tot_dist tot_ded fin_dist '
     'bal_owe tot_paid bal_fwd'
 ).split(' ')
 print(cols)
@@ -51,15 +51,15 @@ def line2cols(line):
         (
             r'^\s+(\d{5})'          # Jurisdiction Code
             r'\s+([^\$]+)'          # City
-            r'([\$\d\,\.-]+)\s+'     # Tot Dist
-            r'([\$\d\,\.-]+)\s+'     # Tot Dec
-            r'([\$\d\,\.-]+)\s+'     # Fin Dist
-            r'([\$\d\,\.-]+)\s+'     # Bal Owe
-            r'([\$\d\,\.-]+)\s+'     # Tot Pay
-            r'([\$\d\,\.-]+)'        # Tot Pay
+            r'([\$\d\,\.-]+)\s+'    # Tot Dist
+            r'([\$\d\,\.-]+)\s+'    # Tot Dec
+            r'([\$\d\,\.-]+)\s+'    # Fin Dist
+            r'([\$\d\,\.-]+)\s+'    # Bal Owe
+            r'([\$\d\,\.-]+)\s+'    # Tot Pay
+            r'([\$\d\,\.-]+)'       # Bal Fwd
         ),
         line
-    ).group(*range(1, 8)))
+    ).group(*range(1, 9)))
     return list(map(trimit, ary))
 
 
